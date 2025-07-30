@@ -22,17 +22,6 @@ I enjoy building performant, scalable software focused on low-level systems, bac
 
 ## GitHub Stats
 
-<table align="center">
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Avicted&show_icons=true&theme=gruvbox" alt="Avicted's GitHub Stats" />
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com?user=Avicted&theme=gruvbox" alt="GitHub Streak" />
-    </td>
-  </tr>
-</table>
-
 <p align="center"><em>Note: My C++ code mostly follows a C-style approach.</em></p>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Avicted&hide=css&langs_count=20&layout=compact&theme=gruvbox" alt="Top Languages" />
