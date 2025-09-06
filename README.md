@@ -1,5 +1,3 @@
-<h1 align="center">Welcome to my GitHub</h1>
-
 ## About Me
 
 I'm **Victor**, a computer engineer and master's graduate with interests in high performance computing (HPC), parallel programming, game design, and modern web technologies.  
