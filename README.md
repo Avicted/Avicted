@@ -7,6 +7,6 @@ I'm **Victor**, a computer engineer and master's graduate with interests in:
 - Modern web and backend technologies
 - Game engine architecture
 
-Currently exploring C/C++, Go, OpenGL, and GPU computing (CUDA / HIP).  
+Currently exploring C, C++, Go, Vulkan, and GPU computing (CUDA / HIP).  
 I enjoy building performant, scalable software focused on low-level systems, backend infrastructure, and game development.
 
