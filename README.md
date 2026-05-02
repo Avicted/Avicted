@@ -1,6 +1,7 @@
 ## About
 
 I'm **Victor**, a computer engineer and master's graduate with interests in:
+- Embedded engineering and electronics
 - High-performance computing (HPC)
 - Parallel and concurrent programming
 - Signal and audio processing
