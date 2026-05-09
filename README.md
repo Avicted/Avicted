@@ -1,6 +1,6 @@
 ## About
 
-I'm **Vicki**, a computer engineer with a electrical engineering background.
+I'm **Vicki**, a computer engineer with a background in electrical engineering.
 
 My current interests are:
 - Embedded engineering and electronics
