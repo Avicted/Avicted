@@ -1,6 +1,8 @@
 ## About
 
-I'm **Victor**, a computer engineer and master's graduate with interests in:
+I'm **Vicki**, a computer engineer with a electrical engineering background.
+
+My current interests are:
 - Embedded engineering and electronics
 - High-performance computing (HPC)
 - Parallel and concurrent programming
@@ -9,5 +11,6 @@ I'm **Victor**, a computer engineer and master's graduate with interests in:
 - Game engine architecture
 
 Currently exploring C, C++, Go, Vulkan, and GPU computing (CUDA / HIP).  
-I enjoy building performant, scalable software focused on low-level systems, backend infrastructure, and game development.
+
+I enjoy building maintainable, performant, scalable software focused on low-level systems, backend infrastructure, and game engine development.
 
